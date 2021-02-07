@@ -1,0 +1,26 @@
+.btn-seek {
+  text-decoration: none;
+  background-color: #e60278;
+  padding: 8px 16px;
+  color: white;
+  border-radius: 4px;
+  transition: 1s;
+}
+
+.btn-seek:hover {
+  background-color: #fd0585;
+}
+
+.btn-medium {
+  text-decoration: none;
+  padding: 8px 16px;
+  color: #34a245;
+  border-radius: 4px;
+  border: 1px solid #34a245;
+  transition: 1s;
+}
+
+.btn-medium:hover {
+  background-color: #34a245;
+  color: white;
+}

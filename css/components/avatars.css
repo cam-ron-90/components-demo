@@ -1,0 +1,9 @@
+.avatar {
+  height: 40px;
+  border-radius: 50%;
+}
+
+.avatar-large {
+  height: 56px;
+  border-radius: 50%;
+}
